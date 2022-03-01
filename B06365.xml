@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unto his Grace, the Marquess of Tweeddale, his Majesties High Commissioner, and the remanent honourable Estates of Parliament. The supplication of the brewers in Edinburgh, Leith and suburbs of the samen, and Sheriffdom of Mid-Lothian.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06365</idno>
+            <idno type="STC">Wing U100D</idno>
+            <idno type="STC">ESTC R185882</idno>
+            <idno type="EEBO-CITATION">52529055</idno>
+            <idno type="OCLC">ocm 52529055</idno>
+            <idno type="VID">179184</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06365)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179184)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2779:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Unto his Grace, the Marquess of Tweeddale, his Majesties High Commissioner, and the remanent honourable Estates of Parliament. The supplication of the brewers in Edinburgh, Leith and suburbs of the samen, and Sheriffdom of Mid-Lothian.</title>
+                  <author>Tweeddale, Charles Hay, Marquis of, 1667-1715.</author>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Beer --  Taxation --  Scotland --  Early works to 1800.</term>
+               <term>Brewing industry --  Law and legislation --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:179184:1"/>
+            <pb n="1" facs="tcp:179184:1"/>
+            <head>
+               <hi>
+                  <g ref="char:V">Ʋ</g>nto His Grace, the Marqueſs of</hi> Tweeddale, <hi>His MA<g ref="char:EOLhyphen"/>JESTIES</hi> High Commiſſioner, <hi>and the Remanent Honourable Eſtates of</hi> Parliament.</head>
+            <head>The SUPPLICATION of The Brewers in <hi>Edinburgh, Leith</hi> and Suburbs of the ſamen, and Sheriffdom of <hi>Mid-Lothian</hi>
+            </head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THat there being by the late Act of Parliament an Additional Impoſi<g ref="char:EOLhyphen"/>tion of three <hi>pennies Scots,</hi> Impoſed upon each Pynt of Ale and Beer brown and vented within the Kingdom, and two <hi>ſhilling Scots</hi> upon each Pynt of ſtrong Waters, by and attour two Merks of each Boll of Malt formerly payable to his Majrſty, and two <hi>pennies</hi> upon each Pynt of Ale, payable to the Town of <hi>Edinburgh,</hi> and which Impoſition was appointed to endure and continue until the firſt of <hi>May</hi> 1695 Years; Albeit your Petitio<g ref="char:EOLhyphen"/>ners were at that time very ſenſible that the foreſaid additional Impoſition would be very grievous and heavy upon them, yet being very confident that his Sa<g ref="char:EOLhyphen"/>cred Majeſty, and the Honourable Eſtates of Parliament would not allow the ſame to be continued upon them, beyond the time preſcribed by the foreſaid Act: We did, with all duty and ſubmiſſion hitherto, and during that time, make punctual payment of the ſame, albeit thereby ſeveral Brewers have been utterly ruined and broken, and many others of us in hazard of falling under the ſame Misfortune, by the great prejudice we have ſuſtained by the ſaid additional Impoſſition this twenty three moneths bypaſt; And as we do hum<g ref="char:EOLhyphen"/>bly and confidently expect to be liberat from the like Impoſition for the future, ſo we do humbly beg leave to repreſent to your Grace, and the Honourable Eſtates of Parliament theſe following Grounds, for clearing what great Preju<g ref="char:EOLhyphen"/>dice we have already ſuſtained thereby: And convincing your Grace, and the High and Honourable Court of Parliament, that it is ſimply impoſſible for us to undergo ſuch an heavy and untollerable burden for the future, without in<g ref="char:EOLhyphen"/>evitable Ruine to our ſelves and Families, in caſe we ſhould continue to exer<g ref="char:EOLhyphen"/>ciſe our Trade and Employment of brewing as formerly. The Barley Beer having been for ſome years bygone, and preſently being ſold at or about ten <hi>merks,</hi> and the Impoſitions payed by the Brewers thir twenty three Moneths bypaſt, amounting to ſix <hi>merks:</hi> each boll of Barley Beer ſtands ſixteen <hi>merks,</hi> beſides which there is to be added, Houſe, Barn, Kill and Brewhouſe-rent, the
+<pb n="2" facs="tcp:179184:2"/>expenſes of Coal and Candle, mantaining of Horſes, Slaids and other Neceſ<g ref="char:EOLhyphen"/>ſars, and the great Charge of many Servants, brewing Looms <hi>&amp;c.</hi> who are abſolutely neceſſarie for carying on an Brewarie. The Multure payed for Malt, beſides a great many inconveniencies which attend the grinding of Malt, and the having of many Servants; So that it may be truly ſaid, that every Boll of Malt coſts eighteen <hi>merks</hi> or thereby: And yet all that can be drawn or got of ſufficient two ſhilling Ale, ſuch as the Retailers or Vintners will take of their hand (conſidering the greatneſs of the Meaſure the Ventners do receive) is at moſt ſixteen Gallons of each Boll, the pryce whereof no Brewer can accompt more than ſixteen <hi>ſhillings starl.</hi> conſidering that we give allow<g ref="char:EOLhyphen"/>ance of a Barrel to the ſcore, and of Drink-money, and all this is over and above the great hazard of inſolvent Debitors, and at the beſt of long out-ly<g ref="char:EOLhyphen"/>ing of our Money, and of ſpoiled and returned Ale, which very often falls out, eſpecially in hot weather, even without any fault of the Brewers, either by reaſon of Thunder, or the malice and evil will of the Tapſter.</p>
+            <p>
+               <hi>Secundo,</hi> We humbly crave Liberty to mynd your Grace and Lordſhips, that as the foreſaid Impoſition has been moſt prejudicial to your Petitioners, ſo likewiſe to all Heritors, and ſuch who ſold Beer: For this muſt needs follow, that the Nobility and Gentry and others who uſes to ſell Beer cannot expect ſuch a pryce as we would be encouraged to give for Beer, in caſe we were free of the foreſaid Impoſition, for ſuch Brewers as ſhal think fit to continue will in buying of Beer have ſome regard to, and conſideration of their own Advantage, as far as poſ<g ref="char:EOLhyphen"/>ſible, and of the preventing their own ruine. And further, if the Brewers, who are the Chief, if not the only Buyers do break (as by what is above repre<g ref="char:EOLhyphen"/>ſented, it is clear they muſt) then the Nobility and Gentry cannot expect good payment, but muſt ſuffer loſs with them.</p>
+            <p>
+               <hi>Tertio,</hi> As it is the intereſt of the Heritors upon the forſaid accompt, That the forſaid Impoſition be not Renewed, ſo likewiſe upon the following, <hi>viz.</hi> That thereby there will be leſs conſumption of Beer, for ſuch Brewers who ſhal think fit to continue muſt needs make their Ale ſmaller.</p>
+            <p>
+               <hi>Quarto,</hi> We humbly crave Liberty to repreſent, that it ſeems very hard that We or the Beer ſhould be the great Fond of all Impoſitions, and that others and other Commodities leſs favourable, and more able than Beer go free, ſeing it is conceived that as all perſons do ſhare proportionally in his Majeſties bounty and benign Government, So likewiſe ſhould they bear a proportional part of the burden; Whereas, as ſaid is, there are a great many Fonds, and Perſons much richer than your Petitioners, who have gone free this while by paſt, and if other Fonds and Perſons be ſtented proportionally, to what your Peti<g ref="char:EOLhyphen"/>tioners and the Beer is, there might be a very conſiderable Supply granted to his Majeſtie.</p>
+            <p>
+               <hi>Quinto.</hi> Your Petitioners humbly crave Liberty to repreſent, that it like<g ref="char:EOLhyphen"/>wiſe would prove very prejudicial to His Majeſty to continue the ſaid Impoſi<g ref="char:EOLhyphen"/>tion, ſeing, as ſaid is the Brewers will thereby inevitably be ruined, or give over their brewing, 'in either of which caſes the Supply intended to be gran<g ref="char:EOLhyphen"/>ted to His Majeſty will not prove effectual: for if they break, as bygone ex<g ref="char:EOLhyphen"/>perience has demonſtrat, they daily do, they will brake with part to the King, and if they forbear, then the Exciſe will not amount to what is expected.</p>
+            <p>
+               <hi>Sexto,</hi> Seing that many of us have at great Charge erected Stells for making
+<pb n="3" facs="tcp:179184:2"/>of Waters of our Dregg, and ſpoiled and returned Ale, for leſſening our Loſſes in ſome meaſure, and that we have payed for our Dregg and ſpoiled and re<g ref="char:EOLhyphen"/>turned Ale, three Impoſitions, it ſeemed very hard that we ſhould have been obliged to pay for any Waters made of our Dregg or returned Ale, ſeing there<g ref="char:EOLhyphen"/>by we were made lyable for a fourth Impoſition altogether intollerable, and it is hoped that it was not the meaning of the Parliament that any ſuch thing ſhould have been formerly exacted, far leſs ought to be continued.</p>
+            <p>And leſt it ſhould be objected againſt us, that Experience has taught that the foreſaid Impoſition has proven a good and effectual Fond and Method for raiſing of Money, the ſamen having been very readily and pleaſantly payed, and that the Brewers do continue in alſe good caſe as ever, and the Ale as ſtrong as formerly, and that the Heritors were never ſenſible of any difference of the pryce of Bear, by reaſon of the foreſaid Impoſition, and that the Brewers may if they pleaſe; raiſe the price of their Ale, or that the foreſaid Impoſition may be impoſed upon the Retailers with advantage, both to the King and Brewers. We humbly crave Liberty to Repreſent; That (as ſaid is) ſad Experience proves that the foreſaid Impoſition has not only obliged ſeveral Brewers to quite their Employments, but even occaſioned their ruine &amp; braking: And albeit ſome whoſe Stock or Credit was more conſiderable, did continue to brew, by reaſon of the ſeverity of the Certification in caſe they left off, and that being ſurpriſed with ſuch an Act, they had more than a years fore-hand Beer on their Hand, for which their Credit ſtood ingaged, ſo that they were neceſſitat to Brew at a<g ref="char:EOLhyphen"/>ny rate for keeping their Credit, and that they believed that the foreſaid Impo<g ref="char:EOLhyphen"/>ſition would be no older than twenty three Months, yet by what is before re<g ref="char:EOLhyphen"/>preſented, it's hoped it is to a Demonſtration clear, that all alongſt during the Exiſtance of that Impoſition we did brew with a Loſs, and if it continue, we muſt all either Ruine or leave off our Imployment, to the prejudice both of His Majeſty and the Nobility and Gentry, <hi>&amp;c.</hi> And however, the great Ex<g ref="char:EOLhyphen"/>port of Beer which was the former year, might have occaſioned the keeping up of the Price of Beer, yet the Experiance of many this year, and Reaſon may teach any thinking Perſon, that in caſe of any ſubſequent plentiful Year, the Heretors muſt ſuffer an great Abatement as to the Price of the Beer, or o<g ref="char:EOLhyphen"/>therwiſe be obliged to keep the ſame upon their own hands, to their great loſs and detriment; Neither has it hitherto been poſſible for the Brewers, (notwith<g ref="char:EOLhyphen"/>ſtanding of an expreſs Act of Council in their favours, of the date the 7th of <hi>September</hi> 1693, allowing them to highten the Price of Ale,) to get any great<g ref="char:EOLhyphen"/>er price for their Ale than what they got formerly, notwithſtanding of great Endeavours uſed by them for making the ſaid Act effectual, and that by reaſon Ale is a very periſhing Commodity, and that there are too many different Brew<g ref="char:EOLhyphen"/>ers in different Circumſtances, and that our Countrey People are very poor, and that the Work-men and pooreſt of the People, and not the Gentry, are theſe who make the greateſt Conſumption of Ale, and albeit ſome have brewed als good Ale as formerly, yet that was occaſioned by the Retailers their refuſing to retail any ſmaller Ale, and that the Ale as ſaid is, is a periſhing Commodity, admitting of no delay in retailing, and that they expected the foreſaid Impoſition would be but of ſmall endurance, and therefore brewed upon their own Stocks with loſs, in hopes that after elapſing of the twenty three Months they would be free, and that as ſaid is, the Brewers were obliged to diſpatch the Victuall they had in their hands at any Rate, for keeping their Credit; And if the Impoſition ſhould be laid upon the Ventners and Retail<g ref="char:EOLhyphen"/>ers,
+<pb n="4" facs="tcp:179184:3"/>it would neither prove profitable to His Majeſty, nor eaſie to the Brew<g ref="char:EOLhyphen"/>ers, but will have the quite contrair Effect: For if the Brewers ſhould be thereby ruined, then it cannot be but acknowledged that His Majeſty will be a Loſer, ſeing if the Brewing be the Fond of the Impoſition, and the Brewers break, the Impoſition muſt fail in conſequence, and that the Brewers will be ruined thereby, is clear from this, that the ſamen tho laid upon the Retailers, will affect the Brewers, ſeing the Ventners and the Retailers will buy Ale with reſpect to the ſaid Impoſition, in the ſame manner as the Brewers do buy from the Heretors, beſides that the Methods for making that way effectual, would be ſuch as would altogether ruine Brewers, conſidering that as ſaid is, Ale is a periſhing Commodity, and cannot admit of any delay, eſpecially in <hi>Summer weather,</hi> and ſeing that it is hoped, that by what is before and above repreſent<g ref="char:EOLhyphen"/>ed, it is clear, that your Petitioners ſtanding and falling depends upon the continuing or not continuing of the ſaid Impoſition, and that we have been already at a very conſiderable Loſs. And that as the Land-rent is al<g ref="char:EOLhyphen"/>ready lyable to the payment of the greateſt part of all publick Burdens and Im<g ref="char:EOLhyphen"/>poſitions, and the great Impoſitions upon Beer and Malt, being an unanſwer<g ref="char:EOLhyphen"/>able Reaſon for leſſning the Price of the Beer, the ſame is by Conſequence an additional Impoſition upon the Land-rent; and ſo the Heretors and your Peti<g ref="char:EOLhyphen"/>tioners, are in a manner the Chief, if not only the perſons burdened hitherto with the payment of Supplies: And which clears a greater inequality, theſe Heretors whoſe Rents are payable in Beer, and Barley do bear the great Bur<g ref="char:EOLhyphen"/>den of this additional Impoſition, whereas other Heretors whoſe Rents are payable in Meal or Money, are lyable allennarly to an ordinary Proportion effeiring to the Land-rent, and to no part of the Impoſitions impoſed upon Beer or Barley, which lyes ſo heavy upon other Heretors.</p>
+            <p>It is humbly craved, your Grace and Lordſhips would be pleaſed to take the Premiſſes and your Petitioners Caſe to your Conſideration, and would be pleaſed to lay ſuch Supplies as ſhall be found neceſſar to be granted to His Majeſty for carrying on the War, in which he is ſo juſt<g ref="char:EOLhyphen"/>ly engaged, upon other Fonds which are more able to bear them than Beer, and to fall upon ſome Method for making up your Petitioners Loſs ſuſtained by the Brewing this 23 Moneths bypaſt, and to free us from any ſuch Additional Impoſitions for the future.</p>
+            <pb facs="tcp:179184:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
